@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#text{
+    color: brown;
+    font-weight: bold;
+}
+#text2{
+    color: red;
+    text-align: justify;
+}
