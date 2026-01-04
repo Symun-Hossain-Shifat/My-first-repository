@@ -25,3 +25,43 @@
     font-size: 20px;
     color: rgba(255, 81, 0, 0.906);
 }
+#box2{
+    margin: 10px 50px;
+
+}
+#box2 h2{
+    text-align: center;
+
+}
+#box2 p{
+    text-align: justify;
+}
+#box3{
+    margin: 10px 50px;
+
+}
+#box3 form{
+    text-align: justify;
+    background-color: rgb(200, 151, 247);
+    border: 2px solid black;
+    border-radius: 20px;
+    width: 30%;
+    margin-left: 35%;
+    height: 400px;
+}
+#box3 form h3{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+#box3 form label{
+    margin-left: 20px;
+}
+#box3 form a{
+    margin-left: 20px;
+}
+
+#box3 form button{
+  margin-left: 120px;
+    padding: 3px;
+}
