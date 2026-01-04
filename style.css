@@ -4,10 +4,24 @@
     box-sizing: border-box;
 }
 #text{
-    color: brown;
-    font-weight: bold;
+ 
+    display: flex;
+    background-color: rgb(102, 34, 34);
+    min-height: 30px;
 }
-#text2{
-    color: red;
-    text-align: justify;
+#box1{
+    display: flex;
+    flex-basis: 50%;
+    margin: 20px;
+}
+#list{
+    display: flex;
+    margin-left: 150px;
+  
+}
+#list li{
+    margin: 10px 10px;
+    list-style: none;
+    font-size: 20px;
+    color: rgba(255, 81, 0, 0.906);
 }
